@@ -9,7 +9,8 @@
 		"mch_id" => "XXXXXXXXX",
 
 		
-		
+		/** 以下三个证书在 账户中心 api安全中下载 */
+		/** 证书使用详情 https://pay.weixin.qq.com/wiki/doc/api/tools/mch_pay.php?chapter=4_3 */
 		/** apiclient_cert.pem */
 		"cert_file" => "apiclient_cert.pem",		
 		/** apiclient_key.pem */
